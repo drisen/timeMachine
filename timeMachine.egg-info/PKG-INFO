@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: timeMachine
+Version: 2.0.1
+Summary: Table with indices of record contents by time
+Home-page: UNKNOWN
+Author: Dennis Risen
+Author-email: dar5@case.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# timeMachine Package
+
+Package to efficiently store a read-only dict of records as they were at successive sample-times in history. The dict may be accessed as it was at any time in its history.
+Includes:
+- **TimeMachine** class represents the dict as it was at any time
+- **TableIndex** class for each index (i.e. dict) into the records 
+
+
+
