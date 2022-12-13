@@ -1,1 +1,1 @@
--e ..\\cpiapi
+cpiapi@git+https://github.com/drisen/cpiapi
