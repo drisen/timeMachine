@@ -1,3 +1,22 @@
 [build-system]
-requires = ["setuptools>=57", "wheel>=0.36"]
+requires = ["setuptools>=65.0"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "timeMachine"
+version = "2.1.2"
+authors = [ { name="Dennis Risen", email="dar5@case.edu" }, ]
+description = "Efficiently store and read-only access a dict of records as they were at sample-times in history."
+readme = "README.md"
+requires-python = ">=3.6"
+license = {file = "LICENSE"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Licence :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: OS Independent",
+              ]
+dependencies = [ "mylib @ git+https://github.com/drisen/mylib.git", ]
+
+[project.urls]
+"Homepage" = "https://github.com/drisen/timeMachine"
+"Bug Tracker" = "https://github.com/drisen/timeMachine/issues"
