@@ -9,4 +9,5 @@ src/timeMachine/tst_timeMachine.py
 src/timeMachine.egg-info/PKG-INFO
 src/timeMachine.egg-info/SOURCES.txt
 src/timeMachine.egg-info/dependency_links.txt
+src/timeMachine.egg-info/requires.txt
 src/timeMachine.egg-info/top_level.txt

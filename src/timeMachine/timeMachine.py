@@ -8,7 +8,7 @@ from collections import defaultdict
 import bisect
 import gzip
 import json
-from cpiapi import strfTime
+from mylib import strfTime
 import os
 from time import time
 from typing import Union

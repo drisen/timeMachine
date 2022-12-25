@@ -1,0 +1,1 @@
+mylib@ git+https://github.com/drisen/mylib.git

@@ -1,1 +1,1 @@
-cpiapi@git+https://github.com/drisen/cpiapi
+git+https://github.com/drisen/mylib
