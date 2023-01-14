@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: timeMachine
-Version: 2.1.2
+Version: 2.1.3
 Summary: Efficiently store and read-only access a dict of records as they were at sample-times in history.
 Author-email: Dennis Risen <dar5@case.edu>
 License:                     GNU GENERAL PUBLIC LICENSE
