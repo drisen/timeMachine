@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "timeMachine"
-version = "2.1.2"
+version = "2.1.3"
 authors = [ { name="Dennis Risen", email="dar5@case.edu" }, ]
 description = "Efficiently store and read-only access a dict of records as they were at sample-times in history."
 readme = "README.md"
