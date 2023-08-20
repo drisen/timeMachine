@@ -1,1 +1,1 @@
-mylib@ git+https://github.com/drisen/mylib.git
+mylib@ git+https://github.com/drisen/mylib
